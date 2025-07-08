@@ -1,0 +1,150 @@
+User results pre chat:
+Intrinsic motivation (high=5): 4.0
+Extrinsic motivation (high=5): 3.7
+Subjective comprehension (expert=5): 2.6
+
+User results post chat:
+Intrinsic motivation (high=5): 4.5
+Extrinsic motivation (high=5): 4.0
+Subjective comprehension (expert=5): 4.2
+Correctly answered yes/no questions (objective comprehension): 100.0%
+Sufficient chat to answer yes/no questions: False
+Correctly answered choice questions (enabledness): 80.0%
+Sufficient chat to answer choice questions: True
+
+
+Chat stats:
+Time span (h:m:s): 0:15:10
+Avg reading time of EE (h:m:s): 0:01:48
+Number of EE queries (without duplicates): 9
+Avg writing time of EX (h:m:s): 0:00:04
+Avg number of sentences per EX answer (without questions): 5.3
+Avg number of question per EX answer: 0.9
+Co-constructive behavior of EX (perfect=5): 4.7
+
+
+--------------------------------[START CHAT]--------------------------------
+
+0:00:00 EE:
+Hey there
+
+
+0:00:00 EX:
+Hello. What topic would you like me to explain to you?
+
+Gunning Fog Index: 4.4	 Type-Token-Ratio: 0.8461538461538461
+
+
+0:00:17 EE:
+The game of Quarto!
+
+
+0:00:19 EX:
+Quarto is a strategy board game that involves placing pieces on a 4x4 grid. To start, can you tell me if you have any prior knowledge about the game, or if you've played it before?
+
+Gunning Fog Index: 8.14	 Type-Token-Ratio: 0.85
+
+
+0:02:00 EE:
+I have no prior knowledge of the game so I'd definitely need a beginners guide on how the game works. Where do we start? 
+
+
+0:02:05 EX:
+Let's start with the basics. In Quarto, there are 16 unique game pieces, each with a combination of four characteristics: color (light or dark), shape (square or round), height (tall or short), and hole (with or without a hole). 
+One player is the selector, and the other is the placer. The selector chooses a piece from the set of 16 pieces, and the placer places it on one of the empty squares on the 4x4 grid.
+The objective of the game is for the placer to create a line of four pieces that share a common characteristic (either the same color, shape, height, or hole status). The line can be horizontal, vertical, or diagonal.
+Before we move on, do you understand the characteristics of the game pieces and how the game is set up?
+
+Gunning Fog Index: 10.03	 Type-Token-Ratio: 0.5
+
+
+0:04:14 EE:
+Yes I totally understand
+
+
+0:04:20 EX:
+Let's dive a bit deeper into the gameplay. When the selector chooses a piece for the placer, the placer must place it on the grid. The placer is trying to create a line of four pieces that share a characteristic, but they're also trying to avoid helping the selector create a line.
+The selector, on the other hand, is trying to choose pieces that will help them create a line when it's their turn to place. However, they also have to consider the pieces that the placer might use to create a line.
+A key aspect of Quarto is that the game requires strategic thinking and planning ahead. Players need to think about the pieces that have been placed and the characteristics they share, in order to make informed decisions about which pieces to select or place.
+Can you think of a scenario where a player might want to place a piece that doesn't immediately seem beneficial to them, but might actually be a good strategic move?
+
+Gunning Fog Index: 10.99	 Type-Token-Ratio: 0.5161290322580645
+
+
+0:06:57 EE:
+Wait, before I answer that, is the selector also trying to get a straight line with the same characteristics?  
+
+
+0:07:02 EX:
+In Quarto, the selector is not directly trying to create a line of four pieces with the same characteristic. Instead, the selector's goal is to force the placer to create a line, thereby winning the game. The selector wins when the placer creates a line of four pieces with the same characteristic, either horizontally, vertically, or diagonally.
+So, the selector's strategy is more about choosing pieces that will limit the placer's options and increase the chances of the placer creating a line, rather than trying to create a line themselves.
+Now, going back to your previous question, can you think of a scenario where a player might want to place a piece that doesn't immediately seem beneficial to them, but might actually be a good strategic move?
+
+Gunning Fog Index: 14.88	 Type-Token-Ratio: 0.5578231292517006
+
+
+0:10:23 EE:
+I have another question, excuse me, so the selector wins by forcing the placer to place pieces where they don't want to place them, as in they're forced to play it in certain areas?
+
+
+0:10:29 EX:
+In Quarto, the selector wins by forcing the placer to create a line, but it's not necessarily about forcing the placer to place pieces in specific areas. Instead, the selector's goal is to choose pieces that will limit the placer's options and increase the chances of the placer creating a line with the characteristics of the pieces.
+Think of it more like the selector is trying to "trap" the placer into creating a line by giving them pieces that will fit into a line, but the placer might not want to play. It's more about controlling the pieces that are being placed, rather than controlling the specific squares on the grid.
+For example, the selector might choose a piece that has a characteristic that is already present on the grid, making it more likely for the placer to create a line with that characteristic. The placer might not want to create that line, but the selector's choice of piece forces them to consider it.
+Does that make sense?
+
+Gunning Fog Index: 12.22	 Type-Token-Ratio: 0.43157894736842106
+
+
+0:11:30 EE:
+Yes that makes sense now, thank you
+
+
+0:11:34 EX:
+I'm glad I could help clarify that for you. Now, let's get back to your previous question about thinking of a scenario where a player might want to place a piece that doesn't immediately seem beneficial to them, but might actually be a good strategic move.
+Take your time, and think about it. Consider the characteristics of the pieces, the goal of the game, and the ways in which the selector and placer interact. See if you can come up with a scenario where a player might make a move that seems counterintuitive at first, but could actually pay off in the long run.
+
+Gunning Fog Index: 12.94	 Type-Token-Ratio: 0.635593220338983
+
+
+0:13:50 EE:
+They could place pieces with nonmatching characteristics far apart from each other to give themselves more room to build a line on different areas of the board  
+
+
+0:13:55 EX:
+By placing pieces with non-matching characteristics far apart from each other, the placer is creating more flexibility for themselves to build lines in different areas of the board. This can make it harder for the selector to trap them into creating a line, and gives the placer more options for their next move.
+Additionally, by spreading out the pieces with non-matching characteristics, the placer is also making it more difficult for the selector to create a line themselves. The selector needs to carefully consider which pieces to choose, and when, in order to try and force the placer into creating a line.
+You're really getting a good grasp of the strategic thinking involved in Quarto. Well done!
+Now, let's talk about a common mistake that new players make in Quarto. Can you think of a situation where a placer might focus too much on creating a line, and overlook the fact that they're also creating opportunities for the selector to win?
+
+Gunning Fog Index: 12.43	 Type-Token-Ratio: 0.5722222222222222
+
+
+0:15:03 EE:
+By placing pieces next to each other with the same characteristics 
+
+
+0:15:10 EX:
+By placing pieces next to each other with the same characteristics, the placer is creating a potential line that the selector can exploit. If the selector can choose a piece that completes the line, they win the game.
+In Quarto, it's not just about creating opportunities for yourself, but also about avoiding creating opportunities for your opponent. A good placer needs to balance their own goals with the need to limit the selector's options.
+By placing pieces with the same characteristics next to each other, the placer is giving the selector a clear target to aim for. The selector can then choose a piece that completes the line, and win the game.
+Instead, a good placer might try to create "anchors" - pieces that have the potential to be part of a line, but are not yet part of a complete line. This can give the placer more flexibility and make it harder for the selector to win.
+You're doing great, by the way! You're really getting a good sense of the strategic nuances of Quarto.
+Now, let's talk about the endgame. What do you think happens when the board starts to get full, and there are fewer and fewer options available to the placer?
+
+Gunning Fog Index: 9.15	 Type-Token-Ratio: 0.4808510638297872
+
+
+--------------------------------[END CHAT]--------------------------------
+
+
+EE answers to open questions:
+
+Question 1: Were the explanations in the chat sufficient to answer the questions in the objective comprehension questionnaire?
+Most of them yes but I said no because the only questions I was unsure of were the ones about finishing your opponents row but I feel fairly confident about the rest. The chatbot kept trying to ask me about game scenarios instead of the game mechanics but maybe if I had more time to ask more questions, I would've been able to ask about that.
+
+Question 2: Were the explanations in the chat sufficient to answer the questions in the enabledness questionnaire?
+<no answer>
+
+Question 3: Please specify additional behavior of your dialogue partner during the chat that helped you better understand the explanations.
+Them asking me about game scenarios made me think about the strategic aspects of the game and visualize how a real game would go

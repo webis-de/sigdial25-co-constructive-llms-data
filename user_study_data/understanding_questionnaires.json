@@ -1,0 +1,497 @@
+{
+    "sleep": {
+        "post_obj_comprehension": {
+            "q1": {
+                "text": "The sleep cycle always runs in fixed stages.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q2": {
+                "text": "Sleep cycles can be altered by external influences such as light and temperature.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q3": {
+                "text": "Slow-wave sleep is crucial for physical recovery.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q4": {
+                "text": "Everyone needs the same amount of sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q5": {
+                "text": "A complete sleep cycle lasts about 60 minutes.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q6": {
+                "text": "There are five sleep stages.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q7": {
+                "text": "Melatonin production is highest during REM sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q8": {
+                "text": "We only dream during REM sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q9": {
+                "text": "Our body temperature and heart rate drop during slow-wave sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q10": {
+                "text": "It\u2019s harmful to wake up during REM sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q11": {
+                "text": "Slow-wave sleep is dominated by delta waves with frequencies below 4 Hz.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q12": {
+                "text": "Melatonin and Cortisol are primarily involved in regulating the sleep-wake cycle.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q13": {
+                "text": "Serotonin is the primary neurotransmitter responsible for REM sleep.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q14": {
+                "text": "Alpha waves play a role in the initial sleep onset.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            }
+        },
+        "post_enabledness": {
+            "q1": {
+                "text": "During a sleep study, a participant is observed to have a high level of alpha wave activity (8-12 Hz). What does this suggest about their current state of sleep?",
+                "choices": [
+                    "They are likely experiencing restorative processes.",
+                    "They may be in a state of wakefulness or light sleep.",
+                    "They are in a slow-wave sleep with minimal brain activity."
+                ],
+                "correct_answer": "They may be in a state of wakefulness or light sleep."
+            },
+            "q2": {
+                "text": "A person's sleep was monitored. The result is plotted in the sleep graph seen below. What sleep stage does the yellow segment (marked with an arrow) represent?",
+                "choices": [
+                    "Light sleep",
+                    "Slow-wave sleep",
+                    "Moderate sleep"
+                ],
+                "correct_answer": "Moderate sleep"
+            },
+            "q3": {
+                "text": "A person exhibits prolonged periods of slow-wave sleep during the first half of the night, with a gradual increase in REM duration towards the morning. What does this pattern most likely indicate about their sleep architecture?",
+                "choices": [
+                    "A typical and healthy sleep cycle progression.",
+                    "An unusual dominance of slow-wave sleep throughout the night.",
+                    "A lack of REM rebound, possibly due to prior sleep deprivation."
+                ],
+                "correct_answer": "A typical and healthy sleep cycle progression."
+            },
+            "q4": {
+                "text": "If someone only gets about 5 hours of sleep per night, which sleep stages are most likely to be impacted?",
+                "choices": [
+                    "Light and moderate sleep",
+                    "REM sleep and slow-wave sleep",
+                    "Only slow-wave sleep",
+                    "All sleep stages equally"
+                ],
+                "correct_answer": "REM sleep and slow-wave sleep"
+            },
+            "q5": {
+                "text": "Which of the following is a correct sequence of sleep stages in one complete sleep cycle?",
+                "choices": [
+                    "Light sleep \u2192 Moderate sleep \u2192 REM \u2192 Slow-wave sleep",
+                    "REM \u2192 Light sleep \u2192 Moderate sleep \u2192 Slow-wave sleep",
+                    "Light sleep \u2192 Moderate sleep \u2192 Slow-wave sleep \u2192 REM",
+                    "Slow-wave sleep \u2192 Moderate sleep \u2192 Light sleep \u2192 REM"
+                ],
+                "correct_answer": "Light sleep \u2192 Moderate sleep \u2192 Slow-wave sleep \u2192 REM"
+            }
+        }
+    },
+    "blackholes": {
+        "post_obj_comprehension": {
+            "q1": {
+                "text": "All black holes form in the same way.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q2": {
+                "text": "Black holes are the densest objects in the universe.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q3": {
+                "text": "Black holes can form if the core of a star collapses.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q4": {
+                "text": "If the core of a star collapses, it can either form a black hole or a neutron star.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q5": {
+                "text": "The reason for the core of a star collapsing is that it is depleted of energy (aka. fuel to burn).",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q6": {
+                "text": "When the core of a star collapses, the result is always the formation of a black hole.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q7": {
+                "text": "Any type of star can form a black hole, if the core of the star collapses.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q8": {
+                "text": "The width of a star is the main factor influencing the mass of a black hole that results from the star\u2019s death.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q9": {
+                "text": "The explosion of the outer shell of a star that happens due to its core collapsing is called a supernova.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q10": {
+                "text": "The sun has enough mass to form a black hole.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q11": {
+                "text": "When a beam of light crosses the event horizon of a black hole, it comes out on the opposite side.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q12": {
+                "text": "The process of two black holes merging can create gravitational waves that are measurable on Earth.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q13": {
+                "text": "Black holes can also form without the core of a star collapsing.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q14": {
+                "text": "The mass, spin, and electric charge of a black hole is determined when it forms and does not change throughout its lifetime.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            }
+        },
+        "post_enabledness": {
+            "q1": {
+                "text": "Which of the following scenarios is most likely to lead to the formation of a black hole?",
+                "choices": [
+                    "The core of a star that is the size of the sun runs out of fuel and its core collapses.",
+                    "A supernova that is the result of two massive stars colliding.",
+                    "The core of a planet (i.e., earth) runs out of fuel and collapses."
+                ],
+                "correct_answer": "A supernova that is the result of two massive stars colliding."
+            },
+            "q2": {
+                "text": "What process releases the energy that balances the gravitational force of a star and avoids its collapse, as long as enough energy is being produced?",
+                "choices": [
+                    "Nuclear fission",
+                    "Chemical combustion",
+                    "Nuclear fusion"
+                ],
+                "correct_answer": "Nuclear fusion"
+            },
+            "q3": {
+                "text": "Which collision of two objects can lead to the formation of a black hole?",
+                "choices": [
+                    "Two black holes collide with each other.",
+                    "Two planets the size of Earth colliding with each other.",
+                    "A star (e.g., the sun) colliding with a planet (e.g., earth)."
+                ],
+                "correct_answer": "Two black holes collide with each other."
+            },
+            "q4": {
+                "text": "Which of the following chemical elements are an important consideration in the formation process of black holes?",
+                "choices": [
+                    "Hydrogen",
+                    "Rubidium",
+                    "Barium",
+                    "Beryllium"
+                ],
+                "correct_answer": "Hydrogen"
+            },
+            "q5": {
+                "text": "What typically happens when a massive star is near the end of its lifecycle?",
+                "choices": [
+                    "A black hole forms immediately.",
+                    "The star dies and becomes a white dwarf.",
+                    "The star burns heavier elements/fuels, such as helium, carbon or oxygen, leading to a supernova.",
+                    "The mass of the star forms a planet."
+                ],
+                "correct_answer": "The star burns heavier elements/fuels, such as helium, carbon or oxygen, leading to a supernova."
+            }
+        }
+    },
+    "quarto": {
+        "post_obj_comprehension": {
+            "q1": {
+                "text": "One may only complete the rows that they have started themselves.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q2": {
+                "text": "One may complete a row that the other person has started and thus win.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q3": {
+                "text": "It is allowed to block a row that the other person has started in order to avoid losing.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q4": {
+                "text": "One chooses the piece that they place themselves.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q5": {
+                "text": "One may position pieces anywhere on free spaces on the board.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q6": {
+                "text": "One may also form a quarto diagonally.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q7": {
+                "text": "All pieces have different sizes.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q8": {
+                "text": "All pieces have different colors.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q9": {
+                "text": "All pieces have different shapes.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q10": {
+                "text": "The game board has an even number of squares.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q11": {
+                "text": "There are a total of ten possible rows to form a quarto on the field.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "yes"
+            },
+            "q12": {
+                "text": "One person plays the light pieces and one person plays the dark pieces.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q13": {
+                "text": "One should always complete the row that the other person has started.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            },
+            "q14": {
+                "text": "One may only form a quarto with their own rows.",
+                "choices": [
+                    "yes",
+                    "no"
+                ],
+                "correct_answer": "no"
+            }
+        },
+        "post_enabledness": {
+            "q1": {
+                "text": "Select the piece that would form a quarto with the three pieces shown.",
+                "choices": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "correct_answer": "3"
+            },
+            "q2": {
+                "text": "Select the piece that would form a quarto with the three pieces shown.",
+                "choices": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "correct_answer": "3"
+            },
+            "q3": {
+                "text": "Choose a piece which you would give to the other person for the next move.",
+                "choices": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "correct_answer": "2"
+            },
+            "q4": {
+                "text": "The following game situation is given. You are given the marked piece (small, square, light-colored, without a hole) by the other person. Where would you place the piece?",
+                "choices": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "correct_answer": "D"
+            },
+            "q5": {
+                "text": "The following game situation is given. Which piece would you give to the other person?",
+                "choices": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correct_answer": "1"
+            }
+        }
+    }
+}
